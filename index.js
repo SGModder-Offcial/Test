@@ -1440,4 +1440,4 @@ setInterval(function () {
 
 appServer.listen(process.env.PORT || 8999);
 
- //985676
+ //Join @SG_Modder1 telegram Channel
