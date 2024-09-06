@@ -1,8 +1,4 @@
-// Load environment variables from .env file
-
 require('dotenv').config();
-
-
 
 const express = require('express');
 
@@ -1442,6 +1438,6 @@ setInterval(function () {
 
 }, 5000)
 
-appServer.listen(process.env.PORT || 8999);
+appServer.listen(process.env.PORT || 8080);
 
  //985676
