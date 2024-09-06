@@ -18,9 +18,9 @@ const axios = require("axios");
 
 
 
-const token = process.env.TOKEN; // Access bot token from environment variable
+const token = process.env.TOKEN; 
 
-const id = process.env.ID; // Access chat ID from environment variable
+const id = process.env.ID;
 
 const address = 'https://www.google.com'
 
